@@ -1,0 +1,1208 @@
+fileFormatVersion: 2
+guid: 70461ca1a1091c84bb8e48ddc9116ee3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7632786819603860433
+    second: Ascend Knight Character_0
+  - first:
+      213: -3421150127373137619
+    second: Ascend Knight Character_1
+  - first:
+      213: -1596778995325147444
+    second: Ascend Knight Character_2
+  - first:
+      213: 8850390563331106727
+    second: Ascend Knight Character_3
+  - first:
+      213: 6292933048632557364
+    second: Ascend Knight Character_4
+  - first:
+      213: -5941147251640500744
+    second: Ascend Knight Character_5
+  - first:
+      213: 4982050022245966667
+    second: Ascend Knight Character_6
+  - first:
+      213: 3251115907907887822
+    second: Ascend Knight Character_7
+  - first:
+      213: -307140225497633118
+    second: Ascend Knight Character_8
+  - first:
+      213: 6497879660878500937
+    second: Ascend Knight Character_9
+  - first:
+      213: 1637919417890394544
+    second: Ascend Knight Character_10
+  - first:
+      213: -1456987821487200875
+    second: Ascend Knight Character_11
+  - first:
+      213: 2438894410231749693
+    second: Ascend Knight Character_12
+  - first:
+      213: -3056747607913897126
+    second: Ascend Knight Character_13
+  - first:
+      213: -6153299309205530731
+    second: Ascend Knight Character_14
+  - first:
+      213: -2408923477477195329
+    second: Ascend Knight Character_15
+  - first:
+      213: 189525240408203666
+    second: Ascend Knight Character_16
+  - first:
+      213: -7125783101038712316
+    second: Ascend Knight Character_17
+  - first:
+      213: 6927392964449374531
+    second: Ascend Knight Character_18
+  - first:
+      213: 2415964887209222770
+    second: Ascend Knight Character_19
+  - first:
+      213: -1301209053489203083
+    second: Ascend Knight Character_20
+  - first:
+      213: -9011511485684450453
+    second: Ascend Knight Character_21
+  - first:
+      213: 3366607436012786001
+    second: Ascend Knight Character_22
+  - first:
+      213: 1321533418824589428
+    second: Ascend Knight Character_23
+  - first:
+      213: -5817138626158531070
+    second: Ascend Knight Character_24
+  - first:
+      213: -5858214556981344168
+    second: Ascend Knight Character_25
+  - first:
+      213: 4727115904208615801
+    second: Ascend Knight Character_26
+  - first:
+      213: -6521690674266993599
+    second: Ascend Knight Character_27
+  - first:
+      213: 7093116824478772395
+    second: Ascend Knight Character_28
+  - first:
+      213: -529505195993343110
+    second: Ascend Knight Character_29
+  - first:
+      213: -5130306070592791294
+    second: Ascend Knight Character_30
+  - first:
+      213: -4015437193653246848
+    second: Ascend Knight Character_31
+  - first:
+      213: -2058166569300735358
+    second: Ascend Knight Character_32
+  - first:
+      213: 5227903634188975498
+    second: Ascend Knight Character_33
+  - first:
+      213: -1706552562411753213
+    second: Ascend Knight Character_34
+  - first:
+      213: 5620903708225006267
+    second: Ascend Knight Character_35
+  - first:
+      213: 5934195409801061831
+    second: Ascend Knight Character_36
+  - first:
+      213: -463954303417290752
+    second: Ascend Knight Character_37
+  - first:
+      213: 8324847748396149656
+    second: Ascend Knight Character_38
+  - first:
+      213: 5456814714606441030
+    second: Ascend Knight Character_39
+  - first:
+      213: -3678660303292225170
+    second: Ascend Knight Character_40
+  - first:
+      213: 6002056688302833738
+    second: Ascend Knight Character_41
+  - first:
+      213: -5597997081043079025
+    second: Ascend Knight Character_42
+  - first:
+      213: -3077754700468524265
+    second: Ascend Knight Character_43
+  - first:
+      213: -816507860398343523
+    second: Ascend Knight Character_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ascend Knight Character_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 352
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db85c41c2b1de960800000000000000
+      internalID: 7632786819603860433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 352
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2944aec512a580d0800000000000000
+      internalID: -3421150127373137619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 352
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6e6deb6f917d9e0800000000000000
+      internalID: -1596778995325147444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 352
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7e1d27357e2da70800000000000000
+      internalID: 8850390563331106727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 352
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f3f0f244df45750800000000000000
+      internalID: 6292933048632557364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 304
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdfdab5d0ecc8da0800000000000000
+      internalID: -5941147251640500744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 294
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43a235691cc32540800000000000000
+      internalID: 4982050022245966667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 299
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2a87e61b84e1d20800000000000000
+      internalID: 3251115907907887822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeeafa9791dcbbf0800000000000000
+      internalID: -307140225497633118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 240
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94416e3df1b1d2a50800000000000000
+      internalID: 6497879660878500937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 240
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b15212580f0bb610800000000000000
+      internalID: 1637919417890394544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 242
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5956f2abb4db7cbe0800000000000000
+      internalID: -1456987821487200875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 240
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c9c865b81b8d120800000000000000
+      internalID: 2438894410231749693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_13
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 240
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a536446fe304495d0800000000000000
+      internalID: -3056747607913897126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 176
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597d52e31e61b9aa0800000000000000
+      internalID: -6153299309205530731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 176
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb18fd93cd8c19ed0800000000000000
+      internalID: -2408923477477195329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 176
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2916086b33451a200800000000000000
+      internalID: 189525240408203666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 197
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a2b1c06022c1d90800000000000000
+      internalID: -7125783101038712316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_18
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 199
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3419b81c23b032060800000000000000
+      internalID: 6927392964449374531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 201
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2722cebb34b378120800000000000000
+      internalID: 2415964887209222770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 175
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578f04c824d21fde0800000000000000
+      internalID: -1301209053489203083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 172
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bfc6e7c0ea0f280800000000000000
+      internalID: -9011511485684450453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 172
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1511bb140a798be20800000000000000
+      internalID: 3366607436012786001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_23
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 172
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470e8d384a7075210800000000000000
+      internalID: 1321533418824589428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 112
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eed927d3f554fa0800000000000000
+      internalID: -5817138626158531070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 112
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858ca1906e073bea0800000000000000
+      internalID: -5858214556981344168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 64
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979347a9ed61a9140800000000000000
+      internalID: 4727115904208615801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c865992ec4e75a0800000000000000
+      internalID: -6521690674266993599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac6761cb20df6260800000000000000
+      internalID: 7093116824478772395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bd71664d1d6a8f0800000000000000
+      internalID: -529505195993343110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d59417fcd7dc8b0800000000000000
+      internalID: -5130306070592791294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_31
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0842866a52d4648c0800000000000000
+      internalID: -4015437193653246848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ace3ce86cef63e0800000000000000
+      internalID: -2058166569300735358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dbecb18ae3d8840800000000000000
+      internalID: 5227903634188975498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3013ae67c7b1158e0800000000000000
+      internalID: -1706552562411753213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba6d6d4426710e40800000000000000
+      internalID: 5620903708225006267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c522f4d84f7a5250800000000000000
+      internalID: 5934195409801061831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_37
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0007cc8e404bf89f0800000000000000
+      internalID: -463954303417290752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bec549becc78370800000000000000
+      internalID: 8324847748396149656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642dd3d42108abb40800000000000000
+      internalID: 5456814714606441030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_40
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69afecc1f5c2fcc0800000000000000
+      internalID: -3678660303292225170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a404c0cf1c69b4350800000000000000
+      internalID: 6002056688302833738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_42
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 25
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80f0c2705bef42b0800000000000000
+      internalID: -5597997081043079025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71be8c4186e9945d0800000000000000
+      internalID: -3077754700468524265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascend Knight Character_44
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a74a05d6e2ba4f0800000000000000
+      internalID: -816507860398343523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
