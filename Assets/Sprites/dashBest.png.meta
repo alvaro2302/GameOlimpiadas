@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 68f988c79633c4cafaf00ad48a46e9ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2800854040793514805
+    second: dashBest_0
+  - first:
+      213: 4762685286731782652
+    second: dashBest_1
+  - first:
+      213: 8395819762104224756
+    second: dashBest_2
+  - first:
+      213: 358596173168477683
+    second: dashBest_3
+  - first:
+      213: -1110993488841530601
+    second: dashBest_4
+  - first:
+      213: -3092397613677619260
+    second: dashBest_5
+  - first:
+      213: 1575741483971661332
+    second: dashBest_6
+  - first:
+      213: -1476504189934685573
+    second: dashBest_7
+  - first:
+      213: -3697674405383973750
+    second: dashBest_8
+  - first:
+      213: -3378321864673432620
+    second: dashBest_9
+  - first:
+      213: 6059637719954150093
+    second: dashBest_10
+  - first:
+      213: -6086320365646419190
+    second: dashBest_11
+  - first:
+      213: 340701121887291423
+    second: dashBest_12
+  - first:
+      213: -3385545937828492907
+    second: dashBest_13
+  - first:
+      213: -1612256833693831569
+    second: dashBest_14
+  - first:
+      213: 2065814158872604060
+    second: dashBest_15
+  - first:
+      213: -4067564428870965593
+    second: dashBest_16
+  - first:
+      213: 2876167606336170823
+    second: dashBest_17
+  - first:
+      213: -2407462085872886782
+    second: dashBest_18
+  - first:
+      213: 2506644508518779344
+    second: dashBest_19
+  - first:
+      213: 6989073011692464882
+    second: dashBest_20
+  - first:
+      213: -1823245571788357114
+    second: dashBest_21
+  - first:
+      213: -6770588766283376241
+    second: dashBest_22
+  - first:
+      213: -7020742792137030459
+    second: dashBest_23
+  - first:
+      213: 8751947207419734064
+    second: dashBest_24
+  - first:
+      213: 4591115203928491022
+    second: dashBest_25
+  - first:
+      213: 4906229851948558099
+    second: dashBest_26
+  - first:
+      213: 2331766543117823604
+    second: dashBest_27
+  - first:
+      213: -1118311220059687621
+    second: dashBest_28
+  - first:
+      213: 8408772095899216176
+    second: dashBest_29
+  - first:
+      213: 3989970032226175115
+    second: dashBest_30
+  - first:
+      213: -3898395238184077714
+    second: dashBest_31
+  - first:
+      213: -2821720947731043027
+    second: dashBest_32
+  - first:
+      213: 8074367611900776799
+    second: dashBest_33
+  - first:
+      213: 4392373861316962268
+    second: dashBest_34
+  - first:
+      213: -4867801808843687167
+    second: dashBest_35
+  - first:
+      213: -7324168451845063784
+    second: dashBest_36
+  - first:
+      213: -239171500545611811
+    second: dashBest_37
+  - first:
+      213: -1208156195235331769
+    second: dashBest_38
+  - first:
+      213: -3282389850173999338
+    second: dashBest_39
+  - first:
+      213: -3933398065406754680
+    second: dashBest_40
+  - first:
+      213: -8074633640478107595
+    second: dashBest_41
+  - first:
+      213: -5327350468243363042
+    second: dashBest_42
+  - first:
+      213: 3971060411536974355
+    second: dashBest_43
+  - first:
+      213: -5615134222169592009
+    second: dashBest_44
+  - first:
+      213: 2193270004308229555
+    second: dashBest_45
+  - first:
+      213: -587730069436985382
+    second: dashBest_46
+  - first:
+      213: 3815959887297100784
+    second: dashBest_47
+  - first:
+      213: 8910626161870501068
+    second: dashBest_48
+  - first:
+      213: 6295965797328188520
+    second: dashBest_49
+  - first:
+      213: -7191119212739405821
+    second: dashBest_50
+  - first:
+      213: -2677585180602923201
+    second: dashBest_51
+  - first:
+      213: 4291833072206267394
+    second: dashBest_52
+  - first:
+      213: -2566695358333369614
+    second: dashBest_53
+  - first:
+      213: 6661881472728012078
+    second: dashBest_54
+  - first:
+      213: -5433187506982834819
+    second: dashBest_55
+  - first:
+      213: 253106878110805070
+    second: dashBest_56
+  - first:
+      213: 2718218483997989145
+    second: dashBest_57
+  - first:
+      213: -2595164580847410843
+    second: dashBest_58
+  - first:
+      213: -4148797696579523787
+    second: dashBest_59
+  - first:
+      213: -2213035430679803583
+    second: dashBest_60
+  - first:
+      213: -5816086774929065777
+    second: dashBest_61
+  - first:
+      213: -6339687823368019313
+    second: dashBest_62
+  - first:
+      213: 2049014197954361023
+    second: dashBest_63
+  - first:
+      213: 7381256706427871261
+    second: dashBest_64
+  - first:
+      213: -1052718974495309676
+    second: dashBest_65
+  - first:
+      213: -4315876476581180605
+    second: dashBest_66
+  - first:
+      213: 8411976899320401669
+    second: dashBest_67
+  - first:
+      213: 1392587289846982302
+    second: dashBest_68
+  - first:
+      213: -4452837989828534571
+    second: dashBest_69
+  - first:
+      213: 196724125345702281
+    second: dashBest_70
+  - first:
+      213: 8367898894956890520
+    second: dashBest_71
+  - first:
+      213: 1691515800993536324
+    second: dashBest_72
+  - first:
+      213: -3796056995881165460
+    second: dashBest_73
+  - first:
+      213: -4978447764740837583
+    second: dashBest_74
+  - first:
+      213: -2937848521621802536
+    second: dashBest_75
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dashBest_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 849
+        width: 490
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533073919e1aed620800000000000000
+      internalID: 2800854040793514805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dashBest_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 729
+        width: 490
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf990a4d805781240800000000000000
+      internalID: 4762685286731782652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dashBest_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 609
+        width: 490
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb4d663791f38470800000000000000
+      internalID: 8395819762104224756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dashBest_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 489
+        width: 490
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5858fc15df9f400800000000000000
+      internalID: 358596173168477683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dashBest_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 369
+        width: 490
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71324d5ee45f490f0800000000000000
+      internalID: -1110993488841530601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dashBest_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 249
+        width: 490
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7da7c21c89515d0800000000000000
+      internalID: -3092397613677619260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dashBest_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 129
+        width: 490
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e4af1f7882ed510800000000000000
+      internalID: 1575741483971661332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dashBest_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 490
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7231991347628be0800000000000000
+      internalID: -1476504189934685573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
