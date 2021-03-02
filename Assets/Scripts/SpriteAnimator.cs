@@ -8,11 +8,11 @@ public class SpriteAnimator : MonoBehaviour
     public Sprite[] dash;
     // Start is called before the first frame update
 
+  
     void Start()
     {
 
         StartCoroutine(DashAnimation());
-
 
 
     }
@@ -35,6 +35,7 @@ public class SpriteAnimator : MonoBehaviour
             yield return 0;
 
         }
-       
+      
+
     }
 }

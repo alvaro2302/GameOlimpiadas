@@ -15,11 +15,11 @@ public class PlayerController : MonoBehaviour
     public LayerMask maskGround;
     Animator animator;
     Transform player;
-  
+
 
     private const string IS_GROUND = "IsGround";
     private const string IS_ALIVE = "IsAlive";
-  
+
 
 
 
@@ -33,7 +33,7 @@ public class PlayerController : MonoBehaviour
     {
         animator.SetBool(IS_ALIVE, true);
         animator.SetBool(IS_GROUND, false);
-         
+
 
 
     }
@@ -50,7 +50,6 @@ public class PlayerController : MonoBehaviour
         }
         animator.SetBool(IS_GROUND, IsGround());
 
-       
 
 
         Debug.DrawRay(transform.position, Vector3.down * 0.15f, Color.black);
@@ -70,14 +69,14 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetKey(KeyCode.A))
         {
-           
+
             transform.localScale = new Vector3(-1, 1, 1);
             Run();
 
 
         }
 
-        if(transform.localScale.x >0)
+        if (transform.localScale.x > 0)
         {
             moveX = 1f;
 
@@ -88,68 +87,76 @@ public class PlayerController : MonoBehaviour
         }
 
         followCamera();
-        handleDash();
-    }
-
-    void Jump()
-    {
-        if (IsGround())
-        {
-            rigidbodyPlayer.AddForce(Vector2.up * forceJump, ForceMode2D.Impulse);
-        }
-
-
-    }
-    void Run()
-    {
-        if (IsGround())
-        {
-            if(transform.localScale.x >0)
-            {
-                rigidbodyPlayer.velocity = new Vector2(forceRun , rigidbodyPlayer.velocity.y);
-            }
-            else
-            {
-                rigidbodyPlayer.velocity = new Vector2(forceRun*-1, rigidbodyPlayer.velocity.y);
-            }
-
-
-        }
-
-    }
-
-    bool IsGround()
-    {
-        return (Physics2D.Raycast(transform.position, Vector2.down, 0.15f, maskGround));
-
-    }
-
-    void followCamera()
-    {
-        Vector3  positionCameraNow = Camera.main.transform.position;
-        Vector3 positionCharacter =  new Vector3(transform.position.x,transform.position.y, -20);
-        Camera.main.transform.position = Vector3.Lerp(positionCameraNow, positionCharacter, 0.05f);
-    }
-
-    void handleDash()
-    {
-        Vector3 moveDir = new Vector3(moveX,0).normalized;
-
         Vector3 beforePosition = transform.position;
-
         if (Input.GetKeyDown(KeyCode.K))
         {
+            Transform dashedBefore=handleDash(beforePosition);
+            StartCoroutine("deleteDashObject", dashedBefore);
+        }
 
-            transform.position += moveDir * speedDash*Time.deltaTime;
+
+
+    }
+        void Jump()
+        {
+            if (IsGround())
+            {
+                rigidbodyPlayer.AddForce(Vector2.up * forceJump, ForceMode2D.Impulse);
+            }
+
+
+        }
+        void Run()
+        {
+            if (IsGround())
+            {
+                if (transform.localScale.x > 0)
+                {
+                    rigidbodyPlayer.velocity = new Vector2(forceRun, rigidbodyPlayer.velocity.y);
+                }
+                else
+                {
+                    rigidbodyPlayer.velocity = new Vector2(forceRun * -1, rigidbodyPlayer.velocity.y);
+                }
+
+
+            }
+
+        }
+
+        bool IsGround()
+        {
+            return (Physics2D.Raycast(transform.position, Vector2.down, 0.15f, maskGround));
+
+        }
+
+        void followCamera()
+        {
+            Vector3 positionCameraNow = Camera.main.transform.position;
+            Vector3 positionCharacter = new Vector3(transform.position.x, transform.position.y, -20);
+            Camera.main.transform.position = Vector3.Lerp(positionCameraNow, positionCharacter, 0.05f);
+        }
+
+        Transform handleDash(Vector3 beforePosition)
+        {
+            Vector3 moveDir = new Vector3(moveX, 0).normalized;
+            transform.position += moveDir * speedDash * Time.deltaTime;
             Transform dashEffectTransform = Instantiate(PfDashEffect, beforePosition, Quaternion.identity);
+            dashEffectTransform.gameObject.active = true;
+            
             dashEffectTransform.eulerAngles = new Vector3(0, 0, 0);
             float dashEffectWidth = 3f;
             dashEffectTransform.localScale = new Vector3(distanceDash / dashEffectWidth, 0.3f, 1f);
-
-
+            return dashEffectTransform;
 
         }
-      
+
+    IEnumerator deleteDashObject(Transform Afterdash)
+    {
+        yield return new WaitForSeconds(1);
+        Debug.Log("eliminando dash");
+        Destroy(Afterdash.gameObject);
 
     }
+
 }
