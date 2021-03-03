@@ -1,11 +1,13 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
     // Start is called before the first frame update
-    public float forceJump = 6f;
+    [SerializeField]
+    private float forceJump = 6f;
     public float forceRun = 1f;
     public float distanceDash = 10f;
     public float speedDash = 50f;
@@ -19,6 +21,7 @@ public class PlayerController : MonoBehaviour
 
     private const string IS_GROUND = "IsGround";
     private const string IS_ALIVE = "IsAlive";
+    private const string IS_RUN = "IsRun";
 
 
 
@@ -33,6 +36,7 @@ public class PlayerController : MonoBehaviour
     {
         animator.SetBool(IS_ALIVE, true);
         animator.SetBool(IS_GROUND, false);
+        animator.SetBool(IS_RUN, false);
 
 
 
@@ -49,7 +53,8 @@ public class PlayerController : MonoBehaviour
 
         }
         animator.SetBool(IS_GROUND, IsGround());
-
+        animator.SetBool(IS_RUN, IsRun());
+      
 
 
         Debug.DrawRay(transform.position, Vector3.down * 0.15f, Color.black);
@@ -63,6 +68,7 @@ public class PlayerController : MonoBehaviour
         {
 
             transform.localScale = new Vector3(1, 1, 1);
+           
             Run();
 
         }
@@ -71,11 +77,12 @@ public class PlayerController : MonoBehaviour
         {
 
             transform.localScale = new Vector3(-1, 1, 1);
+           ;
             Run();
 
 
         }
-
+       
         if (transform.localScale.x > 0)
         {
             moveX = 1f;
@@ -96,12 +103,14 @@ public class PlayerController : MonoBehaviour
 
 
 
+
     }
         void Jump()
         {
             if (IsGround())
             {
                 rigidbodyPlayer.AddForce(Vector2.up * forceJump, ForceMode2D.Impulse);
+                
             }
 
 
@@ -110,6 +119,7 @@ public class PlayerController : MonoBehaviour
         {
             if (IsGround())
             {
+                
                 if (transform.localScale.x > 0)
                 {
                     rigidbodyPlayer.velocity = new Vector2(forceRun, rigidbodyPlayer.velocity.y);
@@ -120,12 +130,13 @@ public class PlayerController : MonoBehaviour
                 }
 
 
-            }
+            }   
 
-        }
+    }
 
         bool IsGround()
         {
+           
             return (Physics2D.Raycast(transform.position, Vector2.down, 0.15f, maskGround));
 
         }
@@ -150,11 +161,15 @@ public class PlayerController : MonoBehaviour
             return dashEffectTransform;
 
         }
+       
+    bool IsRun()
+    {
+        return (((int) System.Math.Ceiling(rigidbodyPlayer.velocity.x)) !=0);
+    }
 
     IEnumerator deleteDashObject(Transform Afterdash)
     {
         yield return new WaitForSeconds(1);
-        Debug.Log("eliminando dash");
         Destroy(Afterdash.gameObject);
 
     }
