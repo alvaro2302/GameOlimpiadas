@@ -1,0 +1,1019 @@
+fileFormatVersion: 2
+guid: f62d6ddb3e4d041499d85827dd5ec530
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3881733958024680937
+    second: greenNormalRed
+  - first:
+      213: 3494039454139054567
+    second: greenRealityRed
+  - first:
+      213: 6910509683184368444
+    second: leavesRed
+  - first:
+      213: -7539572168209453532
+    second: leaveLittleRed
+  - first:
+      213: 8093102636594347396
+    second: teletransporter
+  - first:
+      213: 7031545331409962891
+    second: greenFrozenNormal
+  - first:
+      213: 1010080051309493390
+    second: greenFrozenReality
+  - first:
+      213: -6098488647445092432
+    second: leaveFrozen
+  - first:
+      213: 1347229108500201451
+    second: leavesFrozenOscure
+  - first:
+      213: -7110703780953169207
+    second: littleGround
+  - first:
+      213: -1231282487314067853
+    second: littleGroundOscure
+  - first:
+      213: -5646781925736354049
+    second: groundLittleFrozen
+  - first:
+      213: 121956754209775489
+    second: groundLittleFrozenOscure
+  - first:
+      213: 8869939670897090083
+    second: ground
+  - first:
+      213: -8326506023526695360
+    second: groundOscure
+  - first:
+      213: -3404948534249886695
+    second: GroundFrozen
+  - first:
+      213: -5393132535944678584
+    second: groundFrozenOscure
+  - first:
+      213: -5314456254492549975
+    second: greenAnormallRed
+  - first:
+      213: -6842971515243917621
+    second: greenAnormalRealityRed
+  - first:
+      213: -5906609127446616934
+    second: greenFrozenANormal
+  - first:
+      213: 8395247511762916413
+    second: greenFrozenAnormalReality
+  - first:
+      213: -262988481167642441
+    second: greenLargueRed
+  - first:
+      213: -4276423097821700202
+    second: greenRealityLargueRed
+  - first:
+      213: -762789789611189324
+    second: greenFrozenLargue
+  - first:
+      213: -7710817774269449807
+    second: greenFrozenLargueReality
+  - first:
+      213: -2770479196690411127
+    second: greenNormal
+  - first:
+      213: -3605923680638988702
+    second: greenRealityLittle
+  - first:
+      213: 7322316011245901698
+    second: leavesGreen
+  - first:
+      213: 8722614513324225770
+    second: atlasOlimpiadas_28
+  - first:
+      213: -6510329705038734926
+    second: groundLittleGreen
+  - first:
+      213: -5130086554430231812
+    second: groundLittleOscure
+  - first:
+      213: -2612214611142427503
+    second: groundGreen
+  - first:
+      213: 3023466457638941920
+    second: groundGreenOscure
+  - first:
+      213: 2539416465421372444
+    second: greenAnormal
+  - first:
+      213: 1390010984103511287
+    second: greenRealityAnormal
+  - first:
+      213: 6271003864857043901
+    second: greenLargue
+  - first:
+      213: 4788636270935117307
+    second: greeLargueReality
+  - first:
+      213: 127179562162609430
+    second: atlasOlimpiadas_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greenNormalRed
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 670
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a2e5f088f412ac0800000000000000
+      internalID: -3881733958024680937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenRealityRed
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 670
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9782f0f525d7030800000000000000
+      internalID: 3494039454139054567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesRed
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 718
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bf91381ff07ef50800000000000000
+      internalID: 6910509683184368444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaveLittleRed
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 718
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e24733f0f0e5790800000000000000
+      internalID: -7539572168209453532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teletransporter
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 670
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dbbf808f9705070800000000000000
+      internalID: 8093102636594347396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenFrozenNormal
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 670
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b874fb46931159160800000000000000
+      internalID: 7031545331409962891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenFrozenReality
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 670
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb20d7476840e00800000000000000
+      internalID: 1010080051309493390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaveFrozen
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 718
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b76846e2e0dd5ba0800000000000000
+      internalID: -6098488647445092432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesFrozenOscure
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 718
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef783b7cb152b210800000000000000
+      internalID: 1347229108500201451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: littleGround
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 697
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c26249d594b15d90800000000000000
+      internalID: -7110703780953169207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: littleGroundOscure
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 697
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e4c75f91b99eee0800000000000000
+      internalID: -1231282487314067853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundLittleFrozen
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 697
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6368a1c992a1b0800000000000000
+      internalID: -5646781925736354049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundLittleFrozenOscure
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 697
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f12a4950741b100800000000000000
+      internalID: 121956754209775489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 670
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e57feb22b581b70800000000000000
+      internalID: 8869939670897090083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundOscure
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 670
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e7a8723ee427c80800000000000000
+      internalID: -8326506023526695360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundFrozen
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 672
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c6c8929513fb0d0800000000000000
+      internalID: -3404948534249886695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundFrozenOscure
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 670
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8437a68588eb725b0800000000000000
+      internalID: -5393132535944678584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenAnormallRed
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 541
+        width: 151
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac5e9891324f36b0800000000000000
+      internalID: -5314456254492549975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenAnormalRealityRed
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 541
+        width: 201
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce05c999a1e801a0800000000000000
+      internalID: -6842971515243917621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenFrozenANormal
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 541
+        width: 151
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94e67b0b42870ea0800000000000000
+      internalID: -5906609127446616934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenFrozenAnormalReality
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 541
+        width: 201
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d345c1cc129e18470800000000000000
+      internalID: 8395247511762916413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenLargueRed
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 155
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0bbf7ae5da95cf0800000000000000
+      internalID: -262988481167642441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenRealityLargueRed
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 430
+        width: 214
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fdf0999d717a4c0800000000000000
+      internalID: -4276423097821700202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenFrozenLargue
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 430
+        width: 155
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb1eef4ab60a65f0800000000000000
+      internalID: -762789789611189324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenFrozenLargueReality
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 430
+        width: 214
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9b6e4861cadf490800000000000000
+      internalID: -7710817774269449807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenNormal
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 302
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98198a769d74d89d0800000000000000
+      internalID: -2770479196690411127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenRealityLittle
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 302
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e0858748f25fdc0800000000000000
+      internalID: -3605923680638988702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesGreen
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 350
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287977fed971e9560800000000000000
+      internalID: 7322316011245901698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlasOlimpiadas_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 350
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae47b5b7fa3fc0970800000000000000
+      internalID: 8722614513324225770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundLittleGreen
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 329
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b91e7060a9a6a5a0800000000000000
+      internalID: -6510329705038734926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundLittleOscure
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 329
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaad2885754ec8b0800000000000000
+      internalID: -5130086554430231812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGreen
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 302
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c35c9b6ac8fbbd0800000000000000
+      internalID: -2612214611142427503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundGreenOscure
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 302
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4b0e569b285f920800000000000000
+      internalID: 3023466457638941920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenAnormal
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 174
+        width: 151
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c083622d1dd3320800000000000000
+      internalID: 2539416465421372444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenRealityAnormal
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 174
+        width: 201
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4816d10af4a4310800000000000000
+      internalID: 1390010984103511287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenLargue
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 63
+        width: 155
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3e7e53ac4170750800000000000000
+      internalID: 6271003864857043901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greeLargueReality
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 214
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd83af2157a47240800000000000000
+      internalID: 4788636270935117307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
